@@ -1,0 +1,14 @@
+﻿{
+	"name": "api-ncm",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"dev": "node index.js"
+	},
+	"dependencies": {
+		"@google/generative-ai": "^0.24.1",
+		"dotenv": "^16.4.5",
+		"express": "^4.21.2"
+	}
+}
